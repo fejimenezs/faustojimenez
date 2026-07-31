@@ -1,0 +1,19 @@
+{
+  "HomePage": {
+    "heroTitle": "I build ideas that transform people and businesses.",
+    "heroSubtitle": "I help entrepreneurs, companies and professionals grow using Artificial Intelligence, Digital Marketing and Innovation.",
+    "ctaPrimary": "Explore my universe",
+    "ctaSecondary": "Watch video"
+  },
+  "Nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "academy": "Academy",
+    "services": "Services",
+    "lab": "AI Lab",
+    "blog": "Blog",
+    "contact": "Contact",
+    "cta": "Book a call"
+  }
+}

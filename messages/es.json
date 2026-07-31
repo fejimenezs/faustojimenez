@@ -1,0 +1,19 @@
+{
+  "HomePage": {
+    "heroTitle": "Construyo ideas que transforman personas y negocios.",
+    "heroSubtitle": "Ayudo a emprendedores, empresas y profesionales a crecer utilizando Inteligencia Artificial, Marketing Digital e Innovación.",
+    "ctaPrimary": "Explorar mi universo",
+    "ctaSecondary": "Ver video"
+  },
+  "Nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "academy": "Academia",
+    "services": "Servicios",
+    "lab": "Laboratorio IA",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "cta": "Agenda una asesoría"
+  }
+}
